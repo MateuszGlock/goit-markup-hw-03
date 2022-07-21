@@ -141,7 +141,7 @@ body {
   margin-top: 32px;
 }
 .central {
-  background: var(--central-background);
+  background: var(--header-background);
   justify-content: center;
 }
 .section {
